@@ -5,6 +5,9 @@
 
 <img width="1456" height="950" alt="Screenshot 2026-02-12 182350" src="https://github.com/user-attachments/assets/32e4143c-0ecc-4882-a5e7-e1edf7678da1" />
 
+<img width="1479" height="962" alt="Screenshot 2026-02-21 172123" src="https://github.com/user-attachments/assets/f37f1cf0-e84d-4efe-a1c8-555f461be4e7" />
+
+
 
 🎓 Grade Evaluation Program in C
 📌 Description
